@@ -1,8 +1,3 @@
-Gemini ha dicho
-Como ya renombraste el archivo a main.py, es fundamental actualizar el README.md para que las instrucciones de tu repositorio sean exactas y profesionales. Un buen README es la "cara" de tu proyecto en GitHub.
-
-Aquí tienes el contenido actualizado. Solo tienes que copiarlo y pegarlo en tu archivo README.md dentro de PyCharm, y luego hacer un último commit y push.
-
 Gestión de Lista de Tareas (GUI con Tkinter)
 Este proyecto es una aplicación de escritorio funcional desarrollada en Python utilizando la librería Tkinter. Permite gestionar tareas diarias a través de una interfaz gráfica intuitiva, diseñada como parte de una formación práctica en programación de interfaces.
 
